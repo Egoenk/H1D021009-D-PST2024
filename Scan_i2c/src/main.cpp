@@ -2,8 +2,8 @@
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
-int SDA_pin = D0;
-int SCL_pin = D1;
+int SDA_pin = D1;
+int SCL_pin = D2;
 
 void setup()
 {
